@@ -1,0 +1,839 @@
+screenshots:
+  5233311848411636535_121.jpg:
+    correct: 3
+    id: какой-фильм-заканчивается-сценой-с-подоб-7799d404
+    processed_at: '2026-09-17T23:12:18'
+    quality: manual
+    question: Какой фильм заканчивается сценой с подобным жестом?
+    status: extracted
+  5233311848411636537_121.jpg:
+    correct: 2
+    id: в-каком-фильме-герои-грабят-казино-в-лас-8bbfc548
+    processed_at: '2026-09-17T23:29:11'
+    quality: manual
+    question: В каком фильме герои грабят казино в Лас-Вегасе?
+    status: extracted
+  5233311848411636538_121.jpg:
+    correct: 4
+    id: какое-настоящее-имя-векны-главного-злоде-6a39fb8f
+    processed_at: '2026-09-17T23:24:50'
+    quality: manual
+    question: Какое настоящее имя Векны — главного злодея сериала «Очень странные
+      дела»?
+    status: extracted
+  5233311848411636539_121.jpg:
+    correct: 2
+    id: до-скольки-миль-в-час-должен-был-разогна-8c582bf1
+    processed_at: '2026-09-17T23:20:47'
+    quality: manual
+    question: До скольки миль в час должен был разогнаться автомобиль из фильма «Назад
+      в будущее», чтобы переместиться во времени?
+    status: extracted
+  5233311848411636540_121.jpg:
+    correct: 3
+    id: в-каком-фильме-подобное-увлечение-стало--7f59f3f9
+    processed_at: '2026-09-17T23:16:35'
+    quality: manual
+    question: В каком фильме подобное увлечение стало причиной травмы главного героя?
+    status: extracted
+  5233311848411636541_121.jpg:
+    correct: 3
+    id: главный-герой-какого-фильма-считал-подоб-e05af782
+    processed_at: '2026-09-17T23:33:37'
+    quality: manual
+    question: Главный герой какого фильма считал подобный цветок своим другом?
+    status: extracted
+  5233311848411636542_121.jpg:
+    correct: 4
+    id: какое-из-этих-блюд-мексиканское-d47d2e5b
+    processed_at: '2026-09-17T23:42:38'
+    quality: manual
+    question: Какое из этих блюд — мексиканское?
+    status: extracted
+  5233311848411636543_121.jpg:
+    processed_at: '2026-09-17T23:34:05'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636545_121.jpg:
+    correct: 2
+    id: в-какой-части-игры-resident-evil-появляе-59d606fc
+    processed_at: '2026-09-17T23:38:38'
+    quality: needs_agent_review
+    question: В какой части игры Resident Evil появляется антагонист леди Альсина
+      Димитреску?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636546_121.jpg:
+    correct: 2
+    id: с-каким-камнем-это-кольцо-03db3b68
+    processed_at: '2026-10-31T22:22:25'
+    quality: manual
+    question: С каким камнем это кольцо?
+    status: extracted
+  5233311848411636549_121.jpg:
+    correct: 4
+    id: песня-какой-группы-посвящена-этим-цветам-7faed3e2
+    processed_at: '2026-10-31T22:22:25'
+    quality: manual
+    question: Песня какой группы посвящена этим цветам?
+    status: extracted
+  5233311848411636550_121.jpg:
+    correct: 2
+    id: чучело-какого-животного-сидит-на-стуле-с-41b518f6
+    processed_at: '2026-09-17T23:48:01'
+    quality: manual
+    question: Чучело какого животного сидит на стуле с выпученными глазами в известном
+      интернет-меме?
+    status: extracted
+  5233311848411636564_121.jpg:
+    correct: 4
+    id: в-какой-игре-есть-карта-dust-ii-80733386
+    processed_at: '2026-09-17T21:37:39'
+    quality: manual
+    question: В какой игре есть карта Dust II?
+    status: extracted
+  5233311848411636565_121.jpg:
+    correct: 3
+    id: как-звали-русалочку-из-одноимённого-муль-8477d8d2
+    processed_at: '2026-09-17T22:16:10'
+    quality: manual
+    question: Как звали русалочку из одноимённого мультфильма студии Дисней 1989 года?
+    status: extracted
+  5233311848411636566_121.jpg:
+    correct: 1
+    id: автомобиль-какой-марки-угнали-главные-ге-788b2ffe
+    processed_at: '2026-09-17T21:42:00'
+    quality: manual
+    question: Автомобиль какой марки угнали главные герои фильма «Бумер»?
+    status: extracted
+  5233311848411636567_121.jpg:
+    correct: 1
+    id: как-звали-львёнка-главного-героя-мультфи-bcdc6d23
+    processed_at: '2026-09-17T21:46:10'
+    quality: manual
+    question: Как звали львёнка, главного героя мультфильма «Король Лев»?
+    status: extracted
+  5233311848411636568_121.jpg:
+    correct: 3
+    id: как-называется-искусство-создания-статуй-f7331779
+    processed_at: '2026-09-17T21:50:28'
+    quality: manual
+    question: Как называется искусство создания статуй и объёмных фигур?
+    status: extracted
+  5233311848411636569_121.jpg:
+    correct: 1
+    id: кто-написал-трагедию-гамлет-9cad1921
+    processed_at: '2026-09-17T21:54:46'
+    quality: manual
+    question: Кто написал трагедию «Гамлет»?
+    status: extracted
+  5233311848411636570_121.jpg:
+    correct: 4
+    id: что-призывал-делать-кот-леопольд-из-сове-30a74814
+    processed_at: '2026-09-17T22:12:04'
+    quality: manual
+    question: Что призывал делать кот Леопольд из советского мультфильма?
+    status: extracted
+  5233311848411636571_121.jpg:
+    correct: 4
+    id: в-каких-животных-стреляют-птицами-из-рог-ebee8d4c
+    processed_at: '2026-09-17T21:59:02'
+    quality: manual
+    question: В каких животных стреляют птицами из рогатки в игре Angry Birds?
+    status: extracted
+  5233311848411636572_121.jpg:
+    correct: 3
+    id: какой-жанр-у-игры-minecraft-c8f59a17
+    processed_at: '2026-09-17T22:07:53'
+    quality: manual
+    question: Какой жанр у игры Minecraft?
+    status: extracted
+  5233311848411636573_121.jpg:
+    correct: 3
+    id: что-такое-ситком-b8ebe0df
+    processed_at: '2026-09-17T22:03:20'
+    quality: manual
+    question: Что такое ситком?
+    status: extracted
+  5233311848411636574_121.jpg:
+    processed_at: '2026-09-17T22:24:54'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636575_121.jpg:
+    processed_at: '2026-09-17T22:03:50'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636576_121.jpg:
+    correct: 3
+    id: кто-вёл-телешоу-угадай-мелодию-d4231acf
+    processed_at: '2026-09-17T22:29:06'
+    quality: manual
+    question: Кто вёл телешоу «Угадай мелодию»?
+    status: extracted
+  5233311848411636577_121.jpg:
+    processed_at: '2026-09-17T22:34:17'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636578_121.jpg:
+    correct: 3
+    id: кто-посвятил-популярную-песню-этому-живо-176b635a
+    processed_at: '2026-09-17T22:53:03'
+    quality: manual
+    question: Кто посвятил популярную песню этому животному?
+    status: extracted
+  5233311848411636579_121.jpg:
+    correct: 1
+    id: какому-шоу-принадлежит-слоган-построй-св-549493a2
+    processed_at: '2026-09-17T23:02:00'
+    quality: manual
+    question: Какому шоу принадлежит слоган «Построй свою любовь»?
+    status: extracted
+  5233311848411636580_121.jpg:
+    correct: 3
+    id: как-называется-главный-музыкальный-конку-46933c7e
+    processed_at: '2026-09-17T22:24:27'
+    quality: manual
+    question: Как называется главный музыкальный конкурс Европы?
+    status: extracted
+  5233311848411636581_121.jpg:
+    correct: 2
+    id: с-какого-слова-начинается-государственны-ee45b875
+    processed_at: '2026-09-17T22:38:45'
+    quality: manual
+    question: С какого слова начинается государственный гимн СССР?
+    status: extracted
+  5233311848411636582_121.jpg:
+    correct: 1
+    id: кто-режиссёр-фильма-ирония-судьбы-или-с--8b879933
+    processed_at: '2026-09-17T22:43:28'
+    quality: manual
+    question: Кто режиссёр фильма «Ирония судьбы, или С лёгким паром!»?
+    status: extracted
+  5233311848411636583_121.jpg:
+    correct: 3
+    id: как-называется-сатирическая-пьеса-владим-fe7ab50b
+    processed_at: '2026-09-17T22:20:17'
+    quality: manual
+    question: Как называется сатирическая пьеса Владимира Маяковского?
+    status: extracted
+  5233311848411636584_121.jpg:
+    correct: 1
+    id: в-каком-произведении-льва-толстого-описа-22e2731b
+    processed_at: '2026-09-17T22:48:08'
+    quality: manual
+    question: В каком произведении Льва Толстого описано Бородинское сражение?
+    status: extracted
+  5233311848411636585_121.jpg:
+    correct: 2
+    id: героиню-какого-фильма-озвучила-эвелина-х-981bd9e6
+    processed_at: '2026-09-17T23:06:13'
+    quality: manual
+    question: Героиню какого фильма озвучила Эвелина Хромченко?
+    status: extracted
+  5233311848411636586_121.jpg:
+    correct: 3
+    id: какое-число-традиционно-написано-на-подо-7ca85a3a
+    processed_at: '2026-09-17T22:33:39'
+    quality: manual
+    question: Какое число традиционно написано на подобных шарах с предсказаниями?
+    status: extracted
+  5233311848411636587_121.jpg:
+    processed_at: '2026-09-17T23:06:41'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636588_121.jpg:
+    processed_at: '2026-09-17T23:11:16'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636589_121.jpg:
+    processed_at: '2026-09-17T23:11:48'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636590_121.jpg:
+    processed_at: '2026-09-17T22:53:32'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636592_121.jpg:
+    correct: 1
+    id: как-называется-известная-картина-ивана-а-2cd2ff63
+    processed_at: '2026-09-17T22:57:45'
+    quality: manual
+    question: Как называется известная картина Ивана Айвазовского?
+    status: extracted
+  5233311848411636593_121.jpg:
+    correct: 4
+    id: какое-имя-упоминается-в-названии-фортепи-cabf13f5
+    processed_at: '2026-09-17T23:10:46'
+    quality: manual
+    question: Какое имя упоминается в названии фортепианной пьесы Бетховена?
+    status: extracted
+  5233311848411636594_121.jpg:
+    correct: 1
+    id: роман-габриэля-гарсиа-маркеса-называется-e025a879
+    processed_at: '2026-09-17T20:11:51'
+    quality: manual
+    question: Роман Габриэля Гарсиа Маркеса называется «Сто лет…»
+    status: extracted
+  5233311848411636595_121.jpg:
+    correct: 2
+    id: кто-такой-моби-дик-из-одноимённого-роман-1d176449
+    processed_at: '2026-09-17T20:33:39'
+    quality: manual
+    question: Кто такой Моби Дик из одноимённого романа Германа Мелвилла?
+    status: extracted
+  5233311848411636596_121.jpg:
+    correct: 3
+    id: режиссер-какого-фильма-высадил-подобное--fca54e33
+    processed_at: '2026-09-17T20:16:35'
+    quality: manual
+    question: Режиссер какого фильма высадил подобное поле для съемок своего фильма?
+    status: extracted
+  5233311848411636597_121.jpg:
+    correct: 1
+    id: в-какой-серии-фильмов-эта-птица-была-сим-0a6c5933
+    processed_at: '2026-09-17T20:47:24'
+    quality: manual
+    question: В какой серии фильмов эта птица была символом восстания?
+    status: extracted
+  5233311848411636598_121.jpg:
+    correct: 1
+    id: в-каком-из-этих-видов-спорта-используют--c294387a
+    processed_at: '2026-09-17T20:21:02'
+    quality: manual
+    question: В каком из этих видов спорта используют коньки?
+    status: extracted
+  5233311848411636599_121.jpg:
+    correct: 2
+    id: какое-животное-было-спутником-и-помощник-3e469c39
+    processed_at: '2026-09-17T20:37:46'
+    quality: manual
+    question: Какое животное было спутником и помощником Воланда в романе «Мастер
+      и Маргарита»?
+    status: extracted
+  5233311848411636600_121.jpg:
+    correct: 4
+    id: прозвище-лошади-из-какого-сериала-совпад-e4d26c09
+    processed_at: '2026-09-17T20:42:37'
+    quality: manual
+    question: Прозвище лошади из какого сериала совпадает с названием этой рыбы?
+    status: extracted
+  5233311848411636601_121.jpg:
+    correct: 2
+    id: к-какому-царству-живых-организмов-относи-7de8f5fc
+    processed_at: '2026-09-17T20:25:22'
+    quality: needs_agent_review
+    question: К какому царству живых организмов относится человек?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636602_121.jpg:
+    correct: 2
+    id: у-какого-исполнителя-есть-песня-посвящен-c6422607
+    processed_at: '2026-09-17T20:38:19'
+    quality: manual
+    question: У какого исполнителя есть песня, посвященная этой сладости?
+    status: extracted
+  5233311848411636603_121.jpg:
+    correct: 3
+    id: какая-из-этих-пород-действительно-сущест-5811323e
+    processed_at: '2026-09-17T20:46:50'
+    quality: manual
+    question: Какая из этих пород действительно существует?
+    status: extracted
+  5233311848411636604_121.jpg:
+    correct: 1
+    id: как-зовут-тетю-питера-паркера-в-комиксах-5bf8a799
+    processed_at: '2026-09-17T20:29:27'
+    quality: manual
+    question: Как зовут тетю Питера Паркера в комиксах о Человеке-пауке?
+    status: extracted
+  5246851445049468734_121.jpg:
+    correct: 1
+    id: в-каком-виде-спорта-используются-такие-б-9b6d43e5
+    processed_at: '2026-10-31T22:22:25'
+    quality: manual
+    question: В каком виде спорта используются такие ботинки?
+    status: extracted
+  5233311848411636668_121.jpg:
+    correct: 1
+    id: что-делают-музыканты-когда-исполняют-пье-fe660f44
+    processed_at: '2026-09-17T21:11:06'
+    quality: manual
+    question: Что делают музыканты, когда исполняют пьесу Джона Кейджа «Четыре тридцать
+      три»?
+    status: extracted
+  5233311848411636669_121.jpg:
+    correct: 3
+    id: на-каком-музыкальном-инструменте-играет--a9644d92
+    processed_at: '2026-09-17T20:51:32'
+    quality: manual
+    question: На каком музыкальном инструменте играет актёр Киану Ривз?
+    status: extracted
+  5233311848411636670_121.jpg:
+    processed_at: '2026-09-17T20:52:01'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636671_121.jpg:
+    processed_at: '2026-09-17T21:01:18'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636672_121.jpg:
+    processed_at: '2026-09-17T20:52:28'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636673_121.jpg:
+    correct: 1
+    id: ради-какого-редкого-соуса-рик-из-рика-и--8b6ccbcb
+    processed_at: '2026-09-17T21:15:17'
+    quality: manual
+    question: Ради какого редкого соуса Рик из «Рика и Морти» готов рисковать жизнью?
+    status: extracted
+  5233311848411636674_121.jpg:
+    correct: 4
+    id: как-звали-собаку-робота-в-телефильме-при-ccc01406
+    processed_at: '2026-09-17T18:52:27'
+    quality: manual
+    question: Как звали собаку-робота в телефильме «Приключения Электроника»?
+    status: extracted
+  5233311848411636675_121.jpg:
+    processed_at: '2026-09-17T21:07:01'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636676_121.jpg:
+    correct: 2
+    id: какая-рыба-может-жить-на-суше-несколько--22b622b0
+    processed_at: '2026-09-17T21:19:21'
+    quality: manual
+    question: Какая рыба может жить на суше несколько суток?
+    status: extracted
+  5233311848411636677_121.jpg:
+    processed_at: '2026-09-17T21:02:19'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636678_121.jpg:
+    processed_at: '2026-09-17T21:01:49'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636679_121.jpg:
+    processed_at: '2026-09-17T21:24:07'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636680_121.jpg:
+    correct: 2
+    id: какая-фраза-стала-мемом-благодаря-пиратс-af1f7857
+    processed_at: '2026-09-17T21:00:49'
+    quality: manual
+    question: 'Какая фраза стала мемом благодаря пиратскому переводу GTA: San Andreas?'
+    status: extracted
+  5233311848411636681_121.jpg:
+    correct: 4
+    id: какое-животное-из-семейства-кошачьих-не--4ee93de0
+    processed_at: '2026-09-17T20:56:33'
+    quality: manual
+    question: Какое животное из семейства кошачьих не умеет полностью прятать когти?
+    status: extracted
+  5233311848411636682_121.jpg:
+    correct: 1
+    id: как-называется-аномальная-территория-из--ffd40cce
+    processed_at: '2026-09-17T21:23:33'
+    quality: manual
+    question: Как называется аномальная территория из фильма «Сталкер» Андрея Тарковского?
+    status: extracted
+  5233311848411636683_121.jpg:
+    correct: 1
+    id: в-каком-городе-разворачиваются-события-л-cdb8bb54
+    processed_at: '2026-09-17T21:06:31'
+    quality: manual
+    question: В каком городе разворачиваются события лирической комедии «Покровские
+      ворота»?
+    status: extracted
+  5233311848411636684_121.jpg:
+    processed_at: '2026-09-17T21:24:40'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636685_121.jpg:
+    correct: 4
+    id: что-делал-старик-хоттабыч-в-фильме-1956--a3bd3911
+    processed_at: '2026-09-17T21:29:11'
+    quality: manual
+    question: Что делал старик Хоттабыч в фильме 1956 года, чтобы исполнять желания?
+    status: extracted
+  5233311848411636686_121.jpg:
+    correct: 3
+    id: какой-фразы-шерлока-холмса-нет-в-оригина-ed86a647
+    processed_at: '2026-09-17T21:33:34'
+    quality: manual
+    question: Какой фразы Шерлока Холмса нет в оригинальных книгах Конан Дойла?
+    status: extracted
+  5233311848411636687_121.jpg:
+    processed_at: '2026-09-17T18:57:23'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636688_121.jpg:
+    correct: 4
+    id: какой-домашний-питомец-был-у-сальвадора--8c191bca
+    processed_at: '2026-09-17T19:11:14'
+    quality: manual
+    question: Какой домашний питомец был у Сальвадора Дали?
+    status: extracted
+  5233311848411636689_121.jpg:
+    correct: 4
+    id: кто-чаще-всего-падает-с-неба-когда-идёт--5395741a
+    processed_at: '2026-09-17T18:48:09'
+    quality: manual
+    question: Кто чаще всего падает с неба, когда идёт «дождь из животных»?
+    status: extracted
+  5233311848411636690_121.jpg:
+    correct: 4
+    id: как-российские-локализаторы-официально-п-cfbd2927
+    processed_at: '2026-09-17T18:56:51'
+    quality: manual
+    question: Как российские локализаторы официально перевели название игры The Last
+      of Us?
+    status: extracted
+  5233311848411636691_121.jpg:
+    correct: 4
+    id: как-называется-знаменитая-картина-карла--77716b66
+    processed_at: '2026-09-17T19:06:44'
+    quality: manual
+    question: Как называется знаменитая картина Карла Брюллова, посвящённая гибели
+      древнего города?
+    status: extracted
+  5233311848411636692_121.jpg:
+    processed_at: '2026-09-17T18:57:54'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636693_121.jpg:
+    correct: 2
+    id: что-использовали-участники-daft-punk-что-d48b172d
+    processed_at: '2026-09-17T19:02:16'
+    quality: manual
+    question: Что использовали участники Daft Punk, чтобы скрыть свои лица?
+    status: extracted
+  5233311848411636694_121.jpg:
+    processed_at: '2026-09-17T19:12:21'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636695_121.jpg:
+    correct: 2
+    id: как-называется-метод-опознания-человека--f0b1d1da
+    processed_at: '2026-09-17T19:16:59'
+    quality: manual
+    question: Как называется метод опознания человека по отпечаткам пальцев?
+    status: extracted
+  5233311848411636696_121.jpg:
+    processed_at: '2026-09-17T19:31:25'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636697_121.jpg:
+    correct: 2
+    id: кто-создал-ядро-linux-d3f1f942
+    processed_at: '2026-09-17T19:30:20'
+    quality: manual
+    question: Кто создал ядро Linux?
+    status: extracted
+  5233311848411636698_121.jpg:
+    processed_at: '2026-09-17T19:11:47'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636699_121.jpg:
+    correct: 3
+    id: как-называется-групповой-полет-в-вингсью-3d97a721
+    processed_at: '2026-09-17T19:21:32'
+    quality: manual
+    question: Как называется групповой полет в вингсьютах?
+    status: extracted
+  5233311848411636700_121.jpg:
+    correct: 1
+    id: в-каком-виде-спорта-гребцы-пересекают-ди-a4cfaf6d
+    processed_at: '2026-09-17T19:36:08'
+    quality: manual
+    question: В каком виде спорта гребцы пересекают дистанцию спиной вперёд?
+    status: extracted
+  5233311848411636701_121.jpg:
+    correct: 1
+    id: какой-музыкальный-инструмент-дал-названи-4bd306d2
+    processed_at: '2026-09-17T20:02:59'
+    quality: manual
+    question: Какой музыкальный инструмент дал название «волшебной» опере Моцарта?
+    status: extracted
+  5233311848411636702_121.jpg:
+    correct: 1
+    id: кто-ввел-термин-лошадиная-сила-в-широкое-7ce7a76b
+    processed_at: '2026-09-17T19:44:45'
+    quality: needs_agent_review
+    question: Кто ввел термин «лошадиная сила» в широкое употребление?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636703_121.jpg:
+    correct: 2
+    id: кто-создал-боевое-искусство-айкидо-52da63f3
+    processed_at: '2026-09-17T19:26:07'
+    quality: manual
+    question: Кто создал боевое искусство айкидо?
+    status: extracted
+  5233311848411636704_121.jpg:
+    correct: 2
+    id: статуя-какого-животного-установлена-в-нь-a1c0bcd1
+    processed_at: '2026-09-17T19:40:21'
+    quality: needs_agent_review
+    question: Статуя какого животного установлена в Нью-Иорке неподалеку от Уолл-стрит?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636705_121.jpg:
+    processed_at: '2026-09-17T19:30:53'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636706_121.jpg:
+    processed_at: '2026-09-17T19:31:53'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636707_121.jpg:
+    processed_at: '2026-09-17T20:03:28'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636708_121.jpg:
+    correct: 2
+    id: кто-написал-оперы-риголетто-травиата-и-а-91ee8f33
+    processed_at: '2026-09-17T19:58:46'
+    quality: needs_agent_review
+    question: Кто написал оперы «Риголетто», «Травиата» и «Аида»?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636709_121.jpg:
+    correct: 3
+    id: у-какой-птицы-клюв-растет-перекрещенным-7e716111
+    processed_at: '2026-09-17T19:48:54'
+    quality: needs_agent_review
+    question: У какой птицы клюв растет ! перекрещенным?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636710_121.jpg:
+    processed_at: '2026-09-17T19:49:27'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636711_121.jpg:
+    processed_at: '2026-09-17T19:54:23'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636712_121.jpg:
+    correct: 2
+    id: для-кого-цветы-в-романе-дэниела-киза-d30fc678
+    processed_at: '2026-09-17T20:07:31'
+    quality: needs_agent_review
+    question: Для кого цветы в романе Дэниела Киза?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636713_121.jpg:
+    correct: 2
+    id: как-называется-шведский-музей-посвященны-686d22bd
+    processed_at: '2026-09-17T19:53:53'
+    quality: needs_agent_review
+    question: Как называется шведский музей, посвященный кораблю?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636714_121.jpg:
+    correct: 3
+    id: сколько-пятен-на-теле-новорожденных-далм-0cbb3159
+    processed_at: '2026-09-17T18:43:51'
+    quality: needs_agent_review
+    question: Сколько пятен на теле новорожденных далматинов?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636715_121.jpg:
+    correct: 4
+    id: какого-цвета-пакман-09c43fe9
+    processed_at: '2026-09-17T18:18:03'
+    quality: needs_agent_review
+    question: Какого цвета Пакман?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636716_121.jpg:
+    correct: 4
+    id: названия-автомобилей-какой-марки-часто-с-87c69b60
+    processed_at: '2026-09-17T18:31:23'
+    quality: needs_agent_review
+    question: Названия автомобилей какой марки часто связаны с духами, призраками,
+      привидениями?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636717_121.jpg:
+    correct: 4
+    id: какая-технология-позволяет-платить-телеф-827a99ec
+    processed_at: '2026-09-17T18:39:44'
+    quality: needs_agent_review
+    question: Какая технология позволяет платить телефоном в магазине?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636718_121.jpg:
+    correct: 4
+    id: оо-qua-00-04-кто-изобрел-громоотвод-dd2af840
+    processed_at: '2026-09-17T18:13:51'
+    quality: needs_agent_review
+    question: оо qua» 00:04 Кто изобрел громоотвод?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636719_121.jpg:
+    processed_at: '2026-09-17T18:22:52'
+    reason: no question/category extracted
+    status: skipped
+  5233311848411636720_121.jpg:
+    correct: 4
+    id: как-называется-грузинское-мучное-изделие-6dd035df
+    processed_at: '2026-09-17T18:22:23'
+    quality: needs_agent_review
+    question: Как называется грузинское мучное изделие в виде лодочки с сыром?
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636721_121.jpg:
+    correct: 3
+    id: очертания-берегов-какой-страны-ha-карте--5cb3cae8
+    processed_at: '2026-09-17T18:27:04'
+    quality: needs_agent_review
+    question: 'Очертания берегов какой страны Ha: карте напоминают сапог?'
+    reason: question already in org DB
+    status: duplicate
+  5233311848411636722_121.jpg:
+    correct: 4
+    id: кто-написал-роман-1984-b6e69d6e
+    processed_at: '2026-09-17T18:35:36'
+    quality: needs_agent_review
+    question: Кто написал роман «1984»?
+    reason: question already in org DB
+    status: duplicate
+  photo_10_2026-09-05_20-51-05.jpg:
+    correct: 4
+    id: какого-цвета-пакман-09c43fe9
+    processed_at: '2026-09-17T17:34:15'
+    quality: needs_agent_review
+    question: Какого цвета Пакман?
+    reason: question already in org DB
+    status: duplicate
+  photo_11_2026-09-05_20-51-05.jpg:
+    correct: 4
+    id: названия-автомобилей-какой-марки-часто-с-87c69b60
+    processed_at: '2026-09-17T17:38:38'
+    quality: needs_agent_review
+    question: Названия автомобилей какой марки часто связаны с духами, призраками,
+      привидениями?
+    reason: question already in org DB
+    status: duplicate
+  photo_12_2026-09-05_20-51-05.jpg:
+    correct: 4
+    id: какая-технология-позволяет-платить-телеф-827a99ec
+    processed_at: '2026-09-17T17:42:51'
+    quality: needs_agent_review
+    question: Какая технология позволяет платить телефоном в магазине?
+    reason: question already in org DB
+    status: duplicate
+  photo_13_2026-09-05_20-51-05.jpg:
+    processed_at: '2026-09-17T17:43:20'
+    reason: no question/category extracted
+    status: skipped
+  photo_14_2026-09-05_20-51-05.jpg:
+    correct: 4
+    id: кто-изобрёл-громоотвод-8a5f9dfb
+    processed_at: '2026-09-17T17:47:42'
+    quality: manual
+    question: Кто изобрёл громоотвод?
+    status: extracted
+  photo_15_2026-09-05_20-51-05.jpg:
+    correct: 3
+    id: очертания-берегов-какой-страны-на-карте--73892865
+    processed_at: '2026-09-17T17:51:52'
+    quality: manual
+    question: Очертания берегов какой страны на карте напоминают сапог?
+    status: extracted
+  photo_16_2026-09-05_20-51-05.jpg:
+    correct: 4
+    id: как-называется-грузинское-мучное-изделие-6dd035df
+    processed_at: '2026-09-17T17:56:06'
+    quality: needs_agent_review
+    question: Как называется грузинское мучное изделие в виде лодочки с сыром?
+    reason: question already in org DB
+    status: duplicate
+  photo_17_2026-09-05_20-51-05.jpg:
+    correct: 4
+    id: кто-написал-роман-1984-b6e69d6e
+    processed_at: '2026-09-17T18:00:23'
+    quality: needs_agent_review
+    question: Кто написал роман «1984»?
+    reason: question already in org DB
+    status: duplicate
+  photo_18_2026-09-05_20-51-05.jpg:
+    correct: 4
+    id: у-какой-группы-есть-песня-посвященная-эт-cfc9f80f
+    processed_at: '2026-09-17T18:04:41'
+    quality: manual
+    question: У какой группы есть песня, посвященная этому продукту?
+    status: extracted
+  photo_1_2026-09-05_20-49-06.jpg:
+    correct: 2
+    id: статуя-какого-животного-установлена-в-нь-a1c0bcd1
+    processed_at: '2026-09-17T18:08:57'
+    quality: needs_agent_review
+    question: Статуя какого животного установлена в Нью-Иорке неподалеку от Уолл-стрит?
+    reason: question already in org DB
+    status: duplicate
+  photo_1_2026-09-05_20-51-05.jpg:
+    correct: 1
+    id: кто-ввел-термин-лошадиная-сила-в-широкое-7ce7a76b
+    processed_at: '2026-09-17T17:06:11'
+    quality: needs_agent_review
+    question: Кто ввел термин «лошадиная сила» в широкое употребление?
+    reason: question already in org DB
+    status: duplicate
+  photo_2_2026-09-05_20-49-06.jpg:
+    processed_at: '2026-09-17T18:09:32'
+    reason: no question/category extracted
+    status: skipped
+  photo_2_2026-09-05_20-51-05.jpg:
+    processed_at: '2026-09-17T17:06:40'
+    reason: no question/category extracted
+    status: skipped
+  photo_3_2026-09-05_20-51-05.jpg:
+    correct: 2
+    id: кто-написал-оперы-риголетто-травиата-и-а-91ee8f33
+    processed_at: '2026-09-17T17:11:03'
+    quality: needs_agent_review
+    question: Кто написал оперы «Риголетто», «Травиата» и «Аида»?
+    reason: question already in org DB
+    status: duplicate
+  photo_4_2026-09-05_20-51-05.jpg:
+    correct: 3
+    id: у-какой-птицы-клюв-растёт-перекрещенным-5afc4cf6
+    processed_at: '2026-09-17T17:15:18'
+    quality: manual
+    question: У какой птицы клюв растёт перекрещенным?
+    status: extracted
+  photo_5_2026-09-05_20-51-05.jpg:
+    correct: 2
+    id: для-кого-цветы-в-романе-дэниела-киза-d30fc678
+    processed_at: '2026-09-17T17:19:48'
+    quality: needs_agent_review
+    question: Для кого цветы в романе Дэниела Киза?
+    reason: question already in org DB
+    status: duplicate
+  photo_6_2026-09-05_20-51-05.jpg:
+    processed_at: '2026-09-17T17:20:19'
+    reason: no question/category extracted
+    status: skipped
+  photo_7_2026-09-05_20-51-05.jpg:
+    processed_at: '2026-09-17T17:20:53'
+    reason: no question/category extracted
+    status: skipped
+  photo_8_2026-09-05_20-51-05.jpg:
+    correct: 2
+    id: как-называется-шведский-музей-посвященны-686d22bd
+    processed_at: '2026-09-17T17:25:38'
+    quality: needs_agent_review
+    question: Как называется шведский музей, посвященный кораблю?
+    reason: question already in org DB
+    status: duplicate
+  photo_9_2026-09-05_20-51-05.jpg:
+    correct: 3
+    id: сколько-пятен-на-теле-новорожденных-далм-0cbb3159
+    processed_at: '2026-09-17T17:30:03'
+    quality: needs_agent_review
+    question: Сколько пятен на теле новорожденных далматинов?
+    reason: question already in org DB
+    status: duplicate

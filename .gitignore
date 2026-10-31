@@ -1,0 +1,36 @@
+# Quiz images: untracked locally until extraction quality is confirmed.
+# (Per owner decision: keep files on disk, decide on push later.)
+images/*
+!images/qimg_real_какой-фильм-заканчивается-сценой-с-подоб-7799d404.jpg
+!images/qimg_real_в-каком-фильме-подобное-увлечение-стало--7f59f3f9.jpg
+!images/qimg_real_главный-герой-какого-фильма-считал-подоб-e05af782.jpg
+!images/qimg_real_с-каким-камнем-это-кольцо-03db3b68.jpg
+!images/qimg_real_песня-какой-группы-посвящена-этим-цветам-7faed3e2.jpg
+!images/qimg_real_какое-число-традиционно-написано-на-подо-7ca85a3a.jpg
+!images/qimg_real_режиссер-какого-фильма-высадил-подобное--fca54e33.jpg
+!images/qimg_real_в-какой-серии-фильмов-эта-птица-была-сим-0a6c5933.jpg
+!images/qimg_real_прозвище-лошади-из-какого-сериала-совпад-e4d26c09.jpg
+!images/qimg_real_у-какого-исполнителя-есть-песня-посвящен-c6422607.jpg
+!images/qimg_real_в-каком-виде-спорта-используются-такие-б-9b6d43e5.jpg
+!images/qimg_real_у-какой-группы-есть-песня-посвященная-эт-cfc9f80f.jpg
+!images/qimg_real_кто-посвятил-популярную-песню-этому-живо-176b635a.jpg
+!tests/fixtures/
+!tests/fixtures/**
+
+# Emacs backups and lock files
+*~
+.\#*
+\#*\#
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+
+# OCR temp files
+*.tmp.png
+*.tmp.jpg
+
+# Agent logs
+.opencode/*.log

@@ -1,0 +1,44 @@
+# Golden OCR fixtures (regression: extractor quality must not degrade).
+#
+# Confirmed screenshots and fields used to prevent OCR regressions.
+fixtures:
+  - image: quiz-dust-ii.jpg
+    category: "Гик-культура"
+    question: "В какой игре есть карта Dust II?"
+    answers:
+      1: "Valorant"
+      2: "GTA V"
+      3: "Titanfall"
+      4: "Counter-Strike"
+    correct: 4
+    image_present: false
+  - image: bumer-car.jpg
+    category: "Кинематограф"
+    question: "Автомобиль какой марки угнали главные герои фильма «Бумер»?"
+    answers:
+      1: "BMW"
+      2: "Toyota"
+      3: "Audi"
+      4: "Mercedes-Benz"
+    correct: 1
+    image_present: false
+  - image: quiz-rabbit-image.jpg
+    category: "Поп-культура"
+    question: "Кто посвятил популярную песню этому животному?"
+    answers:
+      1: "Leha Baraban"
+      2: "Sasha Zayats"
+      3: "Slava Skripka"
+      4: "Tolik Gusli"
+    correct: 3
+    image_present: true
+  - image: quiz-plant-image.jpg
+    category: "Поп-культура"
+    question: "Главный герой какого фильма считал подобный цветок своим другом?"
+    answers:
+      1: "Васаби"
+      2: "Такси"
+      3: "Леон"
+      4: "Маска"
+    correct: 3
+    image_present: true

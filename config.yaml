@@ -1,0 +1,111 @@
+# Quizy extractor configuration.
+# All previously hard-coded paths, layout coordinates, OCR params and
+# vocabularies live here. Override with --config, --dir, --org, --img-dir.
+
+screenshot_dir: "~/Pictures/Screenshots/Квизи"
+org_file: "../quizy/data/quizy.org"
+img_dir: "../quizy/images/"
+
+ocr:
+  lang: "rus+eng"
+  psm_block: 6
+  psm_full: 3
+  resize_block: 3
+  resize_full: 4
+  contrast: 2.5
+  threshold: 140
+
+# Canonical 576x1280 quiz layout (Telega screenshots + current Квизи folder).
+# A future Cubot P60 native profile slots in as `layout_cubot_p60`.
+layout_576x1280:
+  width: 576
+  height: 1280
+  category_region: [0, 0, 576, 70]
+  question_text_region: [20, 280, 556, 580]
+  answer_quadrants:
+    1: [20, 580, 278, 730]
+    2: [298, 580, 556, 730]
+    3: [20, 780, 278, 930]
+    4: [298, 780, 556, 930]
+  green_quadrants:
+    1: [0, 535, 288, 700]
+    2: [288, 535, 576, 700]
+    3: [0, 695, 288, 860]
+    4: [288, 695, 576, 860]
+  question_image_region: [44, 252, 532, 438]
+  answer_quadrants_with_image:
+    1: [20, 550, 278, 700]
+    2: [298, 550, 556, 700]
+    3: [20, 710, 278, 860]
+    4: [298, 710, 556, 860]
+  green_threshold: { delta: 20, min_g: 60, min_pixels: 30 }
+
+image_gates:
+  min_width: 100
+  min_height: 80
+  min_bright_pct: 0.05
+  min_mean_brightness: 30
+  min_saturation: 10
+
+known_categories:
+  - "Вокруг света"
+  - "Гик-культура"
+  - "Искусство"
+  - "Кинематограф"
+  - "Поп-культура"
+  - "Природа"
+  - "Спорт"
+  - "Технический прогресс"
+
+# Legacy concat-answer splitting vocabulary. Kept for compatibility;
+# the reviewer agent decides whether entries still need it.
+known_patterns:
+  - 'Бентли'
+  - 'Астон Мартин'
+  - 'Джагуар'
+  - 'Роллс-ройс'
+  - 'Зеленый'
+  - 'Синий'
+  - 'Красный'
+  - 'Желтый'
+  - 'Эрмитаж'
+  - 'Ваза'
+  - 'Лувр'
+  - 'Прадо'
+  - 'Синица'
+  - 'Дятел'
+  - 'Клест'
+  - 'Снегирь'
+  - 'Джакомо Пуччини'
+  - 'Джузеппе Верди'
+  - 'Винченцо Беллини'
+  - 'Джоаккино Россини'
+  - 'Много'
+  - 'Одно'
+  - 'Ни одного'
+  - 'Два'
+  - 'Герберт Уэллс'
+  - 'Олдос Хаксли'
+  - 'Рэй Брэдбери'
+  - 'Джордж Оруэлл'
+  - 'Михаил Ломоносов'
+  - 'Томас Эдисон'
+  - 'Никола Тесла'
+  - 'Бенджамин Франклин'
+  - 'Коллапсар'
+  - 'Горизонт событий'
+  - 'Фотонная сфера'
+  - 'Оболочка'
+  - 'Льва'
+  - 'Орла'
+  - 'Быка'
+  - 'Медведя'
+
+dedup:
+  # manual > perfect > needs_agent_review > needs_human_review.
+  # needs_human_review ranks lowest: those entries are known-bad
+  # (agents gave up), so any other copy is preferred.
+  quality_rank: { manual: 4, perfect: 3, needs_agent_review: 2, needs_human_review: 1 }
+
+review:
+  accept_threshold: 90
